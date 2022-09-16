@@ -25,7 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-unk&show_icons=true&theme=highcontrast&hide_border=false&locale=en&layout=compact" alt="prince-unk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-unk&show_icons=true&theme=highcontrast&hide_border=false&locale=en" alt="prince-unk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-unk&show_icons=true&theme=highcontrast" alt="prince-unk" /></p>
 
 [![Prince's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prince-unk&&theme=xcode)](https://github.com/prince-unk)
