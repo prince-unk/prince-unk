@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/prince-unk/prince-unk/blob/main/Banner/Banner.gif)]
+![MasterHead](https://github.com/prince-unk/prince-unk/blob/main/Banner/Banner.gif)
 <h1 align="center">Hi 👋, I'm Prince Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
