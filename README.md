@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20views&color=0e75b6&style=flat" alt="prince-unk" /> </p>
 
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **something cool.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React , React Native.**
 
 - 💬 Ask me about **anything , I am happy to help ;**
 
