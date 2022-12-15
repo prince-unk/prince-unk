@@ -28,4 +28,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-unk&show_icons=true&locale=en&theme=highcontrast" alt="prince-unk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-unk&show_icons=true&theme=highcontrast" alt="prince-unk" /></p>
 
-[![Prince's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prince-unk&&theme=xcode)](https://github.com/prince-unk)
+<!--[![Prince's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prince-unk&&theme=xcode)](https://github.com/prince-unk)-->
+
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185"> -->
+ 
+ 
+ <h2 align='center'><i><a href="https://github.com/prince-unk/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+ 
