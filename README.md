@@ -32,11 +32,14 @@
  
  <h2 align='center'><i><a href="https://github.com/prince-unk/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/prince-unk/github-readme-activity-graph#gh-light-mode-only">
+<!-- <a href="https://github.com/prince-unk/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/prince-unk/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+</a> -->
+
  
+ [![Prince's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&bg_color=000000&color=ffffff&line=00ffe1&point=00ffe1&area=true&hide_border=true)](https://github.com/prince-unk/github-readme-activity-graph)
+
+ </p>
