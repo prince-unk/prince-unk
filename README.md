@@ -3,9 +3,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="440" src="https://github.com/prince-unk/prince-unk/blob/main/Banner/Programmer_Uncle.gif">
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20Views&color=blue&style=plastic" alt="prince-unk" />
-<!--  <img src="https://komarev.com/ghpvc/?username=prince-unk&style=flat-square" alt="prince-unk" /> -->
-<!--  ![](https://komarev.com/ghpvc/?username=prince-unk&style=flat-square) -->
+ <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20Views&color=blue&style=plastic" alt="https://github.com/prince-unk" />
+<!--  <img src="https://img.shields.io/github/followers/prince-unk?style=social" alt="https://github.com/prince-unk" /> -->
+<!--   <img src="https://img.shields.io/github/repositories/prince-unk?style=plastic" alt="https://github.com/prince-unk" /> -->
+<!--  <img src="https://img.shields.io/github/repositories/prince-unk?style=social" alt="https://github.com/prince-unk" /> -->
+<!--  <img src="https://img.shields.io/github/prince-unk/repositories?style=social" /> -->
 </p>
 
 
