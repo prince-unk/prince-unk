@@ -3,7 +3,6 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="440" src="https://github.com/prince-unk/prince-unk/blob/main/Banner/Programmer_Uncle.gif">
 <p align="left"> 
- <img src="https://img.shields.io/twitter/url?label=Github%20&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fprince-unk" alt="https://github.com/prince-unk" />
   <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20Views&color=blue&style=plastic" alt="https://github.com/prince-unk" />
 </p>
 
