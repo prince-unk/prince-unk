@@ -2,7 +2,11 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="440" src="https://github.com/prince-unk/prince-unk/blob/main/Banner/Programmer_Uncle.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20views&color=0e75b6&style=flat" alt="prince-unk" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20Views&color=blue&style=plastic" alt="prince-unk" />
+<!--  <img src="https://komarev.com/ghpvc/?username=prince-unk&style=flat-square" alt="prince-unk" /> -->
+<!--  ![](https://komarev.com/ghpvc/?username=prince-unk&style=flat-square) -->
+</p>
 
 
 - 🔭 I’m currently working on **something cool.**
