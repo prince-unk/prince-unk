@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything , I am happy to help ;**
 
-- 📫 How to reach me **py8831282@gmail.com**
+<!-- - 📫 How to reach me **email** -->
 
 - ⚡ Fun fact **I think I am funny😅**
 
