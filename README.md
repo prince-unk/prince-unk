@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/prince-unk/prince-unk/blob/main/Banner/Banner.gif)
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince Yadav</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="440" src="https://github.com/prince-unk/prince-unk/blob/main/Banner/Programmer_Uncle.gif">
 <p align="left"> 
