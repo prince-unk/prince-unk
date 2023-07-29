@@ -41,6 +41,6 @@
 </a> -->
 
  
- [![Prince's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prince-unk&bg_color=000000&color=ffffff&line=00ffe1&point=00ff33&area=true&hide_border=true)](https://github.com/prince-unk/github-readme-activity-graph)
+ [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prince-unk&bg_color=000000&color=ffffff&line=00ffe1&point=00ff33&area=true&hide_border=true)](https://github.com/prince-unk/github-readme-activity-graph)
 
  </p>
