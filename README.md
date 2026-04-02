@@ -1,33 +1,50 @@
-![MasterHead](https://github.com/prince-unk/prince-unk/blob/main/Banner/Banner.gif)
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="440" src="https://github.com/prince-unk/prince-unk/blob/main/Banner/Programmer_Uncle.gif">
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=prince-unk&label=Profile%20Views&color=blue&style=plastic" alt="https://github.com/prince-unk" />
-</p>
+# Hi 👋, I'm Prince
 
-- 🔭 I’m currently working on **something cool.**
+<h3>🔐 Cybersecurity Enthusiast | Future SOC Analyst</h3>
+<h3>💻 Transitioning from Web Development to Security</h3>
+<h3>📊 Focused on Threat Detection, SIEM & Blue Teaming</h3>
 
-- 🌱 I’m currently learning **React , React Native.**
+---
 
-- 💬 Ask me about **anything , I am happy to help ;**
+## 🚀 About Me
 
-<!-- - 📫 How to reach me **email** -->
+* 🛡️ Currently learning **SIEM (Splunk / ELK), Log Analysis & Threat Detection**
+* 🌐 Strong foundation in **Networking (TCP/IP, DNS, HTTP)**
+* 🐧 Comfortable with **Linux & Bash scripting**
+* 💡 Background in **Web Development (React, JS)** — now applying it to security
 
-<!-- - ⚡ Fun fact **I think I am funny😅** -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/__prince_unk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__prince_unk" height="30" width="40" /></a>
-</p>
+## 🔍 Cybersecurity Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+* 🛡️ **Secure Web App** – Implemented protections against SQL Injection & common vulnerabilities
+* 📊 **Log Analyzer (SIEM Simulation)** – Detect suspicious patterns from logs
+* 🌐 **Network Traffic Monitor** – Basic packet inspection & analysis
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-unk&show_icons=true&theme=highcontrast&hide_border=false&locale=en&layout=compact" alt="prince-unk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-unk&show_icons=true&locale=en&theme=highcontrast" alt="prince-unk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-unk&show_icons=true&theme=highcontrast" alt="prince-unk" /></p>
+---
+
+## 🛠️ Skills
+
+### 🔐 Security & Core
+
+* SIEM Tools (Splunk / ELK – learning phase)
+* Networking Fundamentals
+* Linux & Bash
+* Log Analysis
+
+### 💻 Programming & Data
+* Python (scripting, log parsing, automation)
+* SQL (basic queries, injection understanding, database interaction)
+### 🌐 Development Background
+* HTML, CSS, JavaScript
+* React & React Native
+* MongoDB / MySQL
+
+---
+
+## 📈 GitHub Stats
+<!---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-unk&show_icons=true&theme=highcontrast" alt="" /></p>
 
 <!--[![Prince's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prince-unk&&theme=xcode)](https://github.com/prince-unk)-->
  
@@ -44,3 +61,11 @@
  [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prince-unk&bg_color=000000&color=ffffff&line=00ffe1&point=00ff33&area=true&hide_border=true)](https://github.com/prince-unk/github-readme-activity-graph)
 
  </p>
+
+---
+
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/princeyadav1162/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
