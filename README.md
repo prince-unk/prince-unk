@@ -266,8 +266,7 @@ https://github.com/prince-unk/wireshark-traffic-analysis
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-**LinkedIn:**
-https://www.linkedin.com/in/princeyadav1162
+
 
 ---
 
